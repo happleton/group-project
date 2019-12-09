@@ -1,11 +1,5 @@
-
 .color-info {
     border: 3px solid black;
-=======
-
-.color-info {
-    border: 3px solid black;
->>>>>>> 17f53aa6276b29042cdc548b94dee243720c6171
 }
 
 h1 {
@@ -14,6 +8,6 @@ h1 {
   text-align: center;
 }
 
-h2{
+h2 {
   text-align: center;
 }
