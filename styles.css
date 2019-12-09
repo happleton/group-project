@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 h1 {
   font-family: fantasy;
   font-size: 50px;
@@ -5,5 +6,10 @@ h1 {
 }
 
 h2{
-  text-align: center;
+  text-align: center;;
+=======
+
+.color-info {
+    border: 3px solid black;
+>>>>>>> 17f53aa6276b29042cdc548b94dee243720c6171
 }
