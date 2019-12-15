@@ -162,8 +162,9 @@ html,body {
 }
 
 p{
-  padding-right: 50px;
-  padding-left: 50px;
+  padding-right: 70px;
+  padding-left: 70px;
+  text-align: center;
 }
 
 .column{
