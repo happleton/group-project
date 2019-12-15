@@ -182,6 +182,14 @@ p{
   text-align: center;
 }
 
+.home-heading{
+  padding-bottom: 0px;
+}
+
+a{
+  color: red;
+}
+
 /* Card Deck */
 *{
   box-sizing: border-box;
