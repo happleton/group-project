@@ -167,6 +167,17 @@ p{
   text-align: center;
 }
 
+.brand-text{
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.brand-header{
+  color: white;
+  font-weight: bold;
+  padding-bottom: 10px;
+}
+
 .column{
   text-align: center;
 }
