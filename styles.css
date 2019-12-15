@@ -6,11 +6,20 @@ h1 {
   font-family: fantasy;
   font-size: 50px;
   text-align: center;
+  padding-bottom: 40px;
 }
 
 h2 {
+  font-family: fantasy;
   text-align: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
 }
+
+.navbar-brand{
+  font-family: fantasy;
+}
+
 html,body {
 	height: 100% !important;
 	margin: 0;
@@ -143,5 +152,10 @@ html,body {
 .card-deck {
   padding-left: 50px;
   padding-right: 50px;
+}
+
+p{
+  padding-right: 50px;
+  padding-left: 50px;
 }
 /*
