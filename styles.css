@@ -60,13 +60,13 @@ html,body {
 
 
  .section-background-image {
-	background-image: url(http://bengoodwin.com.au/js/images/background.jpg);
+	background-image: url(home.jpeg);
 	background-repeat: no-repeat;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
-	opacity: 0.25;
+	opacity: 100;
 }
 
 .section {
