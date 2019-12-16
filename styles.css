@@ -24,6 +24,12 @@ h3 {
   padding-bottom: 30px;
 }
 
+.card-title{
+  color: red;
+  font-weight: bold;
+  font-size: 40px;
+}
+
 .navbar-brand{
   font-family: fantasy;
 }
