@@ -101,6 +101,10 @@ html,body {
 	vertical-align: middle;
 }
 
+.bdayquestion {
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
 /*make the background somewhat darker*/
 .quiz-section:after {
 	content: "";
