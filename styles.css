@@ -24,6 +24,12 @@ h3 {
   padding-bottom: 30px;
 }
 
+.card-title{
+  color: red;
+  font-weight: bold;
+  font-size: 40px;
+}
+
 .navbar-brand{
   font-family: fantasy;
 }
@@ -159,7 +165,7 @@ html,body {
   align-content: center;
 }
 
-
+/* card deck */
 .card-deck {
   padding-left: 50px;
   padding-right: 50px;
@@ -194,7 +200,7 @@ a{
   color: red;
 }
 
-/* Card Deck */
+/* Brand Deck */
 *{
   box-sizing: border-box;
 }
